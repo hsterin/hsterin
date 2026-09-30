@@ -13,4 +13,4 @@ Hands-on CTO, building and scaling startups with AI.
 - 👯 I'm looking to collaborate on startups that want to build and scale with AI
 - 💬 Ask me about continuous modernisation, serverless, fintech, and scaling businesses. Or video games, low-and-slow BBQ, and how to homebrew the best beer in the world 🍺
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hsterin/)
-- ⚡ Fun fact: I landed my first job in Australia speaking more Java than English 🇫🇷🇦🇺
+- ⚡ Fun fact: I landed my first job in Australia speaking more Java than English
